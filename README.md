@@ -5,7 +5,7 @@
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/118614364/227763164-c89a9ce6-3732-4428-9d57-7e39a13cf065.png" width="250" height = "500" \t>
-  <\timg src="https://user-images.githubusercontent.com/118614364/227763166-296e13ce-2eb1-487f-8615-b692e90427df.png" width="250" height = "500" >
+  <img src="https://user-images.githubusercontent.com/118614364/227763166-296e13ce-2eb1-487f-8615-b692e90427df.png" width="250" height = "500" >
 </p>
 
 ![1splash]()
